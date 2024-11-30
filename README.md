@@ -41,7 +41,7 @@ The **Drum Machine** is an interactive web app built with **React** that allows 
 
 ## 🌐 Live Demo
 
-Check out the live demo here: [Drum Machine]()
+Check out the live demo here: [Drum Machine](https://drum-machine-javed-ak.vercel.app)
 
 ---
 
